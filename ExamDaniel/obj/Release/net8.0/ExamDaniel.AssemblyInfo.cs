@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExamDaniel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42b832b3861d3bf9c4e421e36a5c04218b9ca9e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a5b4078c1b8cc6423dedd6ab4996c8b7ef3f601")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExamDaniel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExamDaniel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,33 +1,31 @@
-# Usa la imagen base de .NET SDK 8.0
+# Usa la imagen base del SDK de .NET para construir la aplicación
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 
-# Define el directorio de trabajo dentro del contenedor
+# Establece el directorio de trabajo
 WORKDIR /app
 
-# Copia el archivo .csproj desde la carpeta ExamDaniel
-COPY ExamDaniel/*.csproj ./ 
-
-# Restaura las dependencias
+# Copia el archivo .csproj y restaura las dependencias
+COPY ExamDaniel/*.csproj ./
 RUN dotnet restore
 
-# Copia el resto de los archivos de tu proyecto
+# Copia todos los archivos de tu aplicación
 COPY ExamDaniel/. ./
 
-# Publica el proyecto
-RUN dotnet publish -c Release -o out
+# Publica la aplicación (esto crea el .dll)
+RUN dotnet publish -c Release -o /app/out
 
-# Usa la imagen base de .NET 8.0 Runtime para ejecutar la aplicación
+# Usa la imagen base del Runtime de .NET para ejecutar la aplicación
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 
-# Define el directorio de trabajo dentro del contenedor
+# Establece el directorio de trabajo
 WORKDIR /app
 
-# Copia los archivos de la compilación anterior
+# Copia los archivos desde el contenedor de construcción
 COPY --from=build /app/out .
 
-# Expone el puerto que la aplicación usará
+# Expone el puerto para que la aplicación sea accesible
 EXPOSE 80
 
-# Establece el comando para ejecutar la aplicación
-ENTRYPOINT ["dotnet", "MiProyecto.dll"]
+# Define el comando para ejecutar la aplicación
+ENTRYPOINT ["dotnet", "ExamDaniel.dll"]
 
