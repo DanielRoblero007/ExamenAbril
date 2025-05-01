@@ -1,0 +1,642 @@
+2025-04-29 11:49:41 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 11:49:45 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 11:49:45 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 11:49:51 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 11:50:01 | Operación | Producto editado: ID 5 (Nuevo nombre: Cámara Logitech C920S)
+2025-04-29 11:50:22 | Operación | Producto agregado: prueba (Stock: 100, Precio: 100)
+2025-04-29 11:50:25 | Operación | Producto eliminado: ID 6
+2025-04-29 11:50:27 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 11:50:36 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 11:50:54 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 11:51:01 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 11:57:12 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 11:57:37 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 11:57:37 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 11:58:09 | Operación | Producto agregado: prueba (Stock: 10, Precio: 10)
+2025-04-29 11:58:14 | Operación | Producto editado: ID 6 (Nuevo nombre: prueba)
+2025-04-29 12:39:33 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 12:39:38 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 12:39:38 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 12:39:47 | Acceso | Cierre de sesión: Kenzo
+2025-04-29 12:39:51 | Error | Intento fallido de inicio de sesión con el usuario: fad
+2025-04-29 12:39:55 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 12:39:55 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 12:40:28 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 12:40:47 | Operación | Producto agregado: fad (Stock: 10, Precio: 100)
+2025-04-29 12:40:50 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 12:43:02 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 12:43:05 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 12:43:05 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 12:43:12 | Operación | Producto editado: ID 7 (Nuevo nombre: 189)
+2025-04-29 12:43:22 | Operación | Producto editado: ID 7 (Nuevo nombre: dfadfa)
+2025-04-29 12:43:27 | Operación | Producto editado: ID 7 (Nuevo nombre: dfadfa-)
+2025-04-29 12:43:55 | Operación | Producto editado: ID 7 (Nuevo nombre: dfadfa-)
+2025-04-29 12:43:58 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 12:44:05 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 16:30:37 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 16:30:40 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 16:30:40 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 16:30:44 | Operación | Consumo de API REST exitoso.
+2025-04-29 16:30:56 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 16:31:25 | Operación | Consumo de API REST exitoso.
+2025-04-29 16:31:37 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 16:32:11 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 16:32:12 | Operación | Consumo de API REST exitoso.
+2025-04-29 16:32:34 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 16:35:35 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 16:35:39 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 16:35:39 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 16:35:41 | Operación | Consumo de API REST exitoso.
+2025-04-29 16:47:40 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 16:47:43 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 16:47:43 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 16:50:01 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 16:50:05 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 16:50:05 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 16:53:45 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 16:53:48 | Error | Intento fallido de inicio de sesión con el usuario: Kenzo
+2025-04-29 16:53:52 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 16:53:52 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 17:10:53 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 17:11:04 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 17:11:04 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 17:26:36 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 17:26:40 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 17:26:40 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 17:27:25 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 17:32:29 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 17:32:32 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 17:32:32 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 17:33:46 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 17:33:50 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 17:33:50 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 17:45:38 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 17:45:41 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 17:45:41 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 17:45:43 | Operación | Consumo de API REST exitoso.
+2025-04-29 18:39:06 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 18:39:10 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 18:39:10 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 18:39:16 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 18:39:18 | Operación | Consumo de API REST exitoso.
+2025-04-29 18:39:23 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 18:39:25 | Operación | Consumo de API REST exitoso.
+2025-04-29 18:39:27 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 18:39:33 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 18:39:37 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 18:39:40 | Operación | Consumo de API REST exitoso.
+2025-04-29 18:39:42 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 18:45:35 | Acceso | Cierre de sesión: Kenzo
+2025-04-29 18:48:50 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 18:48:54 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 18:48:54 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 18:48:56 | Operación | Consumo de API REST exitoso.
+2025-04-29 19:08:48 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 19:09:08 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 19:09:08 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 19:09:15 | Operación | Consumo de API REST exitoso.
+2025-04-29 19:34:55 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 19:34:59 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 19:34:59 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 19:35:00 | REST | Listado de productos obtenido
+2025-04-29 19:35:16 | REST | Producto eliminado (ID simulado): 1
+2025-04-29 19:35:17 | REST | Listado de productos obtenido
+2025-04-29 19:38:43 | REST | Listado de productos obtenido
+2025-04-29 19:38:57 | REST | Producto editado (ID simulado): 1
+2025-04-29 19:38:57 | REST | Listado de productos obtenido
+2025-04-29 19:39:05 | REST | Producto editado (ID simulado): 1
+2025-04-29 19:39:05 | REST | Listado de productos obtenido
+2025-04-29 19:39:08 | REST | Producto eliminado (ID simulado): 1
+2025-04-29 19:39:08 | REST | Listado de productos obtenido
+2025-04-29 19:39:27 | REST | Producto editado (ID simulado): 8
+2025-04-29 19:39:28 | REST | Listado de productos obtenido
+2025-04-29 19:39:34 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 19:39:39 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 19:39:39 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 19:39:55 | Operación | Producto eliminado: ID 7
+2025-04-29 19:39:58 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 19:40:00 | REST | Listado de productos obtenido
+2025-04-29 19:41:19 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 19:41:22 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 19:41:22 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 19:41:31 | REST | Editar producto: 1
+2025-04-29 19:41:40 | REST | Eliminar producto: 1
+2025-04-29 19:47:44 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 19:48:01 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 19:48:05 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 19:48:05 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 19:49:40 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 19:49:43 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 19:49:43 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 19:49:50 | REST | Editar producto: 1
+2025-04-29 19:52:39 | REST | Eliminar producto: 1
+2025-04-29 19:52:43 | REST | Eliminar producto: 1
+2025-04-29 19:52:48 | REST | Editar producto: 1
+2025-04-29 19:59:11 | REST | Editar producto: 1
+2025-04-29 20:03:54 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 20:03:58 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 20:03:58 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 20:04:02 | REST | Eliminar producto: 1
+2025-04-29 20:04:08 | REST | Editar producto: 1
+2025-04-29 20:07:55 | REST | Eliminar producto: 1
+2025-04-29 20:08:05 | REST | Editar producto: 1
+2025-04-29 20:11:29 | REST | Eliminar producto: 1
+2025-04-29 20:11:34 | REST | Editar producto: 1
+2025-04-29 20:11:50 | REST | Crear producto: 21
+2025-04-29 20:11:57 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 20:12:04 | Error | Intento fallido de inicio de sesión con el usuario: kenzo
+2025-04-29 20:12:08 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 20:12:08 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 20:12:18 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 20:12:19 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 21:41:23 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 21:41:26 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 21:41:26 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 21:42:02 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 21:42:06 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 21:42:06 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 21:46:38 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 21:46:53 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 21:46:53 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 21:48:42 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 21:48:46 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 21:48:51 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 21:48:51 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 21:52:26 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 21:52:28 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 21:52:31 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 21:52:31 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 21:55:22 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 21:55:26 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 21:55:26 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 21:55:48 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 22:00:57 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 22:01:01 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 22:01:01 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 22:42:30 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 22:42:34 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 22:42:34 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 22:55:34 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 22:55:38 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 22:55:38 | Acceso | Usuario Kenzo accedió al Home
+2025-04-29 23:06:17 | Acceso | Intento de acceso sin sesión activa
+2025-04-29 23:06:21 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-29 23:06:21 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 09:59:29 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 09:59:34 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 09:59:34 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 09:59:52 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:00:11 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:00:17 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:02:27 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:02:29 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:02:42 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:02:50 | Operación | Producto agregado: 1 (Stock: 1, Precio: 1)
+2025-04-30 10:02:53 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:03:11 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:03:49 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:04:45 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:07:09 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:19:54 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:19:57 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:19:57 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:23:15 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:23:21 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:23:21 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:23:26 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:25:33 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:26:01 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:26:01 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:26:05 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:27:49 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:28:01 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:28:01 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:34:37 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:34:45 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:34:45 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:35:00 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:35:03 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:35:06 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:35:11 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:35:13 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:35:17 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:35:22 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:35:32 | Acceso | Cierre de sesión: Kenzo
+2025-04-30 10:35:36 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:35:36 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:35:48 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:36:01 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:36:21 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:37:29 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:37:39 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:37:39 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:37:43 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:37:47 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:37:53 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:39:06 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:39:13 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:39:13 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:39:17 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:39:21 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:40:53 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:41:01 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:41:01 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:41:05 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:41:13 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:41:49 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:41:51 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:42:06 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:42:10 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:42:10 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:42:14 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:42:45 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:42:48 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:42:48 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:42:53 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:43:20 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:43:24 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:43:24 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:43:31 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:43:54 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:43:57 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:43:57 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:44:06 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:44:23 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:44:26 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:44:26 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:45:15 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:45:18 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:45:18 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:49:19 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:49:23 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:49:23 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:50:07 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:50:13 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:50:13 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:52:09 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:52:14 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:52:14 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:53:07 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:53:50 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 10:53:56 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:53:56 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:54:03 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:54:13 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:54:15 | Acceso | Cierre de sesión: Kenzo
+2025-04-30 10:56:55 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 10:56:55 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:57:17 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:57:22 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:57:26 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 10:57:54 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:00:17 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:00:36 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:03:53 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:04:02 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:10:08 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:10:26 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:10:26 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:11:45 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:11:49 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:11:49 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:12:00 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:12:01 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:12:23 | REST | Eliminar producto: 1
+2025-04-30 11:12:28 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:12:58 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:13:02 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:13:02 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:18:30 | REST | Editar producto: 1
+2025-04-30 11:18:34 | REST | Eliminar producto: 2
+2025-04-30 11:18:55 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:18:59 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:18:59 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:20:16 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:20:21 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:20:21 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:27:46 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:27:52 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:27:56 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:27:56 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:28:00 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:28:46 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:28:51 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:28:55 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:29:04 | REST | Editar producto: 1
+2025-04-30 11:29:07 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:29:34 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:31:27 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:31:31 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:31:31 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:32:37 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:32:40 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:32:41 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:34:53 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:34:57 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:34:57 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:35:02 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:35:15 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:35:29 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:36:38 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:36:41 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:36:41 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:36:50 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:36:53 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:37:02 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:39:04 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:39:59 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:54:45 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:54:48 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:54:48 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:54:50 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:55:15 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:56:08 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 11:56:13 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 11:56:13 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 11:56:36 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 12:08:14 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 12:08:18 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 12:08:18 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 12:09:54 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 12:09:59 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 12:09:59 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 12:12:07 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 12:12:10 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 12:12:10 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:09:19 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 13:09:23 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 13:09:23 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:09:33 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:09:40 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:09:45 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:10:26 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:10:30 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:11:39 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 13:11:52 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 13:12:31 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 13:12:35 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 13:12:35 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:16:49 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 13:16:53 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 13:16:53 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:20:38 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 13:20:44 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 13:20:44 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:43:31 | Acceso | Intento de acceso sin sesión activa
+2025-04-30 13:43:34 | Error | Intento fallido de inicio de sesión con el usuario: kenzo
+2025-04-30 13:43:39 | Acceso | Inicio de sesión exitoso: Kenzo
+2025-04-30 13:43:39 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:43:49 | Operacion | Producto editado: ID 7 (Nuevo nombre: 100)
+2025-04-30 13:43:54 | Operacion | Producto agregado: a (Stock: 121, Precio: 12)
+2025-04-30 13:44:02 | Operacion | Producto agregado: 1 (Stock: 2, Precio: 1)
+2025-04-30 13:44:14 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:44:22 | REST | Crear producto: 21
+2025-04-30 13:44:25 | Acceso | Usuario Kenzo accedió al Home
+2025-04-30 13:47:05 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 13:47:09 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 13:47:09 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 13:47:25 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 13:48:36 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 13:48:40 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 13:48:40 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 13:51:38 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 13:51:41 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 13:51:41 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 13:51:47 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 13:54:04 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 13:54:50 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 13:54:51 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 13:57:27 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 13:57:30 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 13:57:30 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 13:58:21 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 13:58:29 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 13:58:52 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 13:58:56 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 13:58:56 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:05:38 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:05:41 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:05:41 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:06:00 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:06:03 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:06:03 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:07:29 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:07:34 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:07:34 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:07:38 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:07:43 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:08:50 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:08:55 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:08:55 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:11:25 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:11:28 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:11:28 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:15:30 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:15:33 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:15:33 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:16:00 | Operación | Producto agregado: prueba2 (Stock: 10, Precio: 10)
+2025-04-30 14:16:06 | Operación | Producto agregado: preuba 3 (Stock: 10, Precio: 10)
+2025-04-30 14:16:22 | Operación | Producto agregado: prueba 5 (Stock: 10, Precio: 10)
+2025-04-30 14:16:34 | Operación | Producto agregado: pruea 6 (Stock: 10, Precio: 10)
+2025-04-30 14:16:41 | Operación | Producto agregado: prueba (Stock: 10, Precio: 10)
+2025-04-30 14:25:28 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:25:31 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:25:31 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:28:00 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:28:07 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:28:07 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:28:11 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:28:28 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:28:49 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:29:07 | Operación | Producto agregado: 2 (Stock: 1, Precio: 1)
+2025-04-30 14:35:08 | Operación | Producto agregado: jaja (Stock: 12, Precio: 12)
+2025-04-30 14:42:03 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:42:07 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:42:07 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:42:17 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:44:31 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:44:38 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:44:38 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:44:47 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:44:57 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:45:06 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:45:15 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:45:20 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:45:20 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:45:24 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:45:33 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:45:36 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:45:36 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:45:48 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:46:00 | REST | Editar producto: 1
+2025-04-30 14:46:03 | REST | Eliminar producto: 1
+2025-04-30 14:46:04 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:46:17 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:46:37 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:46:51 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:46:54 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:50:43 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:50:47 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:50:48 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:52:55 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:52:59 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:52:59 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:53:12 | Operación | Producto eliminado: ID 16
+2025-04-30 14:53:14 | Operación | Producto eliminado: ID 15
+2025-04-30 14:53:16 | Operación | Producto eliminado: ID 14
+2025-04-30 14:53:18 | Operación | Producto eliminado: ID 13
+2025-04-30 14:53:20 | Operación | Producto eliminado: ID 12
+2025-04-30 14:53:22 | Operación | Producto eliminado: ID 11
+2025-04-30 14:53:48 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:53:54 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:55:28 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:55:31 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:55:31 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:55:53 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:56:18 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:56:21 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:56:21 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:56:42 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:57:14 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:57:18 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:57:18 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:57:26 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:57:32 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:58:28 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:58:31 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:58:31 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:58:40 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:59:21 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 14:59:24 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 14:59:24 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 14:59:30 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 15:00:04 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:00:08 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 15:00:08 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 15:00:10 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 15:00:17 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 15:00:40 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 15:02:07 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:02:11 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 15:02:11 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 15:10:44 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 15:10:48 | Acceso | Cierre de sesion: Kenzo
+2025-04-30 15:22:34 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:23:06 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:23:32 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:24:50 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:25:00 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 15:25:00 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:25:04 | Acceso | Cierre de sesion: admin
+2025-04-30 15:25:06 | Error | Intento fallido de inicio de sesion con el usuario: a
+2025-04-30 15:25:08 | Error | Intento fallido de inicio de sesion con el usuario: a
+2025-04-30 15:25:15 | Error | Intento fallido de inicio de sesion con el usuario: a
+2025-04-30 15:28:02 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:28:06 | Error | Intento fallido de inicio de sesion con el usuario: 1
+2025-04-30 15:29:05 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:29:06 | Error | Intento fallido de inicio de sesion con el usuario: 1
+2025-04-30 15:29:12 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 15:29:12 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:29:20 | Acceso | Cierre de sesion: admin
+2025-04-30 15:30:35 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 15:30:35 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:30:43 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:31:00 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:31:02 | Acceso | Cierre de sesion: admin
+2025-04-30 15:31:04 | Error | Intento fallido de inicio de sesion con el usuario: 2
+2025-04-30 15:31:07 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 15:31:07 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:31:23 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:31:51 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:31:56 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:31:58 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:36:17 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:36:23 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 15:36:23 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:37:13 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:37:17 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 15:37:17 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:37:20 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:49:17 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 15:49:22 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 15:49:22 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:50:42 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:50:57 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:51:12 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:51:14 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:51:16 | Acceso | Usuario admin accedio al Home
+2025-04-30 15:51:18 | Acceso | Cierre de sesion: admin
+2025-04-30 16:51:06 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 16:51:13 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 16:51:13 | Acceso | Usuario admin accedio al Home
+2025-04-30 16:52:40 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 16:52:47 | Error | Intento fallido de inicio de sesion con el usuario: Kenzo
+2025-04-30 16:52:50 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 16:52:50 | Acceso | Usuario admin accedio al Home
+2025-04-30 16:53:06 | REST | Editar producto: 2
+2025-04-30 16:53:09 | REST | Eliminar producto: 2
+2025-04-30 16:53:12 | Acceso | Usuario admin accedio al Home
+2025-04-30 16:53:30 | Acceso | Usuario admin accedio al Home
+2025-04-30 16:53:51 | Acceso | Usuario admin accedio al Home
+2025-04-30 16:56:16 | Acceso | Usuario admin accedio al Home
+2025-04-30 16:56:21 | Acceso | Cierre de sesion: admin
+2025-04-30 16:58:34 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 16:58:34 | Acceso | Usuario admin accedio al Home
+2025-04-30 16:59:11 | Operación | Producto agregado: Audifono (Stock: 100, Precio: 50)
+2025-04-30 16:59:32 | Operación | Producto editado: ID 11 (Nuevo nombre: Audifono)
+2025-04-30 16:59:36 | Operación | Producto eliminado: ID 11
+2025-04-30 16:59:40 | Operación | Producto eliminado: ID 10
+2025-04-30 16:59:41 | Acceso | Usuario admin accedio al Home
+2025-04-30 16:59:58 | REST | Editar producto: 1
+2025-04-30 17:00:08 | REST | Editar producto: 1
+2025-04-30 17:00:12 | REST | Eliminar producto: 1
+2025-04-30 17:00:27 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:01:12 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:01:54 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:01:56 | Acceso | Cierre de sesion: admin
+2025-04-30 17:02:03 | Error | Intento fallido de inicio de sesion con el usuario: prueba
+2025-04-30 17:02:09 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 17:02:09 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:02:26 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:03:05 | Acceso | Cierre de sesion: admin
+2025-04-30 17:03:13 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 17:03:13 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:03:17 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 17:03:17 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:03:20 | Acceso | Cierre de sesion: admin
+2025-04-30 17:03:30 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 17:03:40 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 17:03:40 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:05:43 | Error | Error al agregar un producto. Modelo no valido.
+2025-04-30 17:06:15 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:07:53 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:12:25 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 17:12:46 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 17:12:46 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:12:56 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:16:16 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:16:21 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:16:26 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:16:29 | Acceso | Usuario admin accedio al Home
+2025-04-30 17:16:31 | Acceso | Cierre de sesion: admin
+2025-04-30 17:23:20 | Error | Intento fallido de inicio de sesion con el usuario: kenzo
+2025-04-30 17:23:24 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 17:23:24 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 17:24:01 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 17:24:11 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 18:02:08 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 19:08:53 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 20:26:02 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 20:37:17 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 20:37:24 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 20:37:24 | Acceso | Usuario admin accedio al Home
+2025-04-30 20:37:26 | Acceso | Usuario admin accedio al Home
+2025-04-30 20:37:38 | REST | Crear producto: 21
+2025-04-30 20:37:43 | REST | Editar producto: 1
+2025-04-30 20:37:46 | REST | Eliminar producto: 1
+2025-04-30 20:37:49 | Acceso | Usuario admin accedio al Home
+2025-04-30 20:37:57 | Operación | Producto agregado: prueba (Stock: 15, Precio: 150)
+2025-04-30 20:38:04 | Operación | Producto editado: ID 10 (Nuevo nombre: prueba)
+2025-04-30 20:38:07 | Operación | Producto eliminado: ID 10
+2025-04-30 20:38:08 | Acceso | Usuario admin accedio al Home
+2025-04-30 20:38:11 | Acceso | Usuario admin accedio al Home

@@ -1,0 +1,116 @@
+﻿@model List<string>
+
+@{
+    ViewData["Title"] = "Bitácora";
+
+    var filtroSeleccionado = Context.Request.Query["filtro"].ToString();
+    var registrosFiltrados = string.IsNullOrEmpty(filtroSeleccionado) || filtroSeleccionado == "Todos"
+        ? Model
+        : Model.Where(r => r.Contains(filtroSeleccionado, StringComparison.OrdinalIgnoreCase)).ToList();
+}
+
+<style>
+    .bitacora-container {
+        max-height: 500px;
+        overflow-y: auto;
+        border: 1px solid #dee2e6;
+        border-radius: 0.5rem;
+        background-color: #f8f9fa;
+    }
+
+    .list-group-item {
+        white-space: pre-wrap;
+        font-family: monospace;
+    }
+
+    
+    .footer {
+        background-color: black; 
+        color: white; /
+        border-top: 1px solid #dee2e6;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+ 
+    .content-wrapper {
+        padding-bottom: 80px; 
+    }
+</style>
+
+<div class="container mt-5 mb-5 content-wrapper">
+    <div class="text-center mb-4">
+        <h2 class="fw-bold text-white">📘 Registros de la Bitácora</h2>
+        <a class="btn btn-secondary mb-3" href="@Url.Action("Index", "Home")">Volver al inicio</a>
+    </div>
+
+    <form method="get" class="mb-3">
+        <div class="row g-2 align-items-center">
+            <div class="col-auto">
+                <label for="filtro" class="col-form-label fw-semibold text-white">Filtrar por tipo:</label>
+            </div>
+            <div class="col-auto">
+                <select id="filtro" name="filtro" class="form-select" onchange="this.form.submit()">
+                    @if (filtroSeleccionado == "Todos")
+                    {
+                        <option value="Todos" selected>Todos</option>
+                    }
+                    else
+                    {
+                        <option value="Todos">Todos</option>
+                    }
+
+                    @if (filtroSeleccionado == "Acceso")
+                    {
+                        <option value="Acceso" selected>Acceso</option>
+                    }
+                    else
+                    {
+                        <option value="Acceso">Acceso</option>
+                    }
+
+                    @if (filtroSeleccionado == "Operacion")
+                    {
+                        <option value="Operacion" selected>Operación</option>
+                    }
+                    else
+                    {
+                        <option value="Operacion">Operación</option>
+                    }
+
+                    @if (filtroSeleccionado == "Error")
+                    {
+                        <option value="Error" selected>Error</option>
+                    }
+                    else
+                    {
+                        <option value="Error">Error</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </form>
+
+    @if (registrosFiltrados != null && registrosFiltrados.Count > 0)
+    {
+        <div class="bitacora-container p-2 shadow-sm">
+            <ul class="list-group">
+                @foreach (var registro in registrosFiltrados)
+                {
+                    <li class="list-group-item">@registro</li>
+                }
+            </ul>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center">
+            No se encontraron registros para el filtro seleccionado.
+        </div>
+    }
+</div>
+
+
+<div class="footer">
+    <p>&copy; 2025 ExamDaniel. Todos los derechos reservados.</p>
+</div>

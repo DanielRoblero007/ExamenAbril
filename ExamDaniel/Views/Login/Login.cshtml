@@ -1,0 +1,155 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="~/js/sweetAlert.js"></script>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            background-color: #000000;
+            background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+            background-repeat: repeat;
+            background-size: auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .login-container {
+            backdrop-filter: blur(10px);
+            background-color: rgba(240, 240, 240, 0.3);
+            border-radius: 20px;
+            padding: 3rem 2.5rem;
+            width: 100%;
+            max-width: 400px;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: white;
+        }
+
+        .login-title {
+            font-size: 2rem;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .login-icon {
+            font-size: 4rem;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 1rem;
+        }
+
+        .form-label {
+            color: #f1f1f1;
+        }
+
+        .form-control {
+            background-color: rgba(255, 255, 255, 0.2);
+            border: none;
+            color: white;
+        }
+
+            .form-control::placeholder {
+                color: #ccc;
+            }
+
+            .form-control:focus {
+                background-color: rgba(255, 255, 255, 0.3);
+                box-shadow: none;
+                color: white;
+            }
+
+        .btn-login {
+            padding: 0.75rem;
+            font-size: 1.1rem;
+            font-weight: bold;
+        }
+
+        .create-account-link {
+            display: block;
+            margin-top: 1rem;
+            text-align: center;
+            color: #0d6efd;
+            text-decoration: none;
+        }
+
+            .create-account-link:hover {
+                text-decoration: underline;
+            }
+
+        .nota-login {
+            margin-top: 1.5rem;
+            font-size: 0.9rem;
+            color: #dddddd;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-icon">
+            <i class="bi bi-person-circle"></i>
+        </div>
+        <div class="login-title">Iniciar Sesión</div>
+
+        <form method="post" action="/Login/Login" id="formLogin">
+            <div class="mb-3">
+                <label for="usrNombre" class="form-label">Usuario</label>
+                <input type="text" class="form-control" id="usrNombre" name="usrNombre" placeholder="Ingresa tu usuario" required />
+            </div>
+
+            <div class="mb-4">
+                <label for="password" class="form-label">Contraseña</label>
+                <input type="password" class="form-control" id="password" name="password" placeholder="Ingresa tu contraseña" required />
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100 btn-login">Ingresar</button>
+
+            @if (ViewBag.Error != null)
+            {
+                <script>
+                    document.addEventListener('DOMContentLoaded', function () {
+                        // Usamos Html.Raw para asegurar que el mensaje no se codifique.
+                        mostrarSweetAlertError('@Html.Raw(ViewBag.Error)');
+                    });
+                </script>
+            }
+
+            <a href="#" class="create-account-link">¿Crear cuenta?</a>
+
+            <div class="nota-login">
+                Usuario: <strong>admin</strong> | Contraseña: <strong>admin</strong>
+            </div>
+        </form>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        const form = document.getElementById('formLogin');
+        form.addEventListener('submit', function (event) {
+            if (!form.checkValidity()) {
+                event.preventDefault();
+                event.stopPropagation();
+            }
+            form.classList.add('was-validated');
+        }, false);
+    </script>
+</body>
+</html>

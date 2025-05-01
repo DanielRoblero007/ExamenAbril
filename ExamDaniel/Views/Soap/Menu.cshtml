@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Menú SOAP";
+}
+
+<div style="min-height: 100vh; padding-top: 40px;">
+    <div class="container">
+        <div class="text-center mb-5 animate__animated animate__fadeInDown">
+            <h2 class="fw-bold text-white">🔧 Servicio SOAP - Menú</h2>
+            <p class="lead text-light">Selecciona uno de los métodos disponibles del servicio SOAP.</p>
+        </div>
+
+        <div class="row row-cols-1 row-cols-md-2 g-4">
+
+            <div class="col animate__animated animate__fadeInUp" style="animation-delay: 0.1s;">
+                <div class="card border-primary h-100 shadow-sm bg-dark text-white">
+                    <div class="card-body">
+                        <h5 class="card-title">🌍 Listado de países por nombre</h5>
+                        <p class="card-text">Obtén una lista de todos los países organizados por nombre.</p>
+                        <a href="@Url.Action("Index", "Soap")" class="btn btn-primary w-100">Seleccionar</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col animate__animated animate__fadeInUp" style="animation-delay: 0.2s;">
+                <div class="card border-success h-100 shadow-sm bg-dark text-white">
+                    <div class="card-body">
+                        <h5 class="card-title">🌐 Listado de países por código</h5>
+                        <p class="card-text">Visualiza los países a través de su código correspondiente.</p>
+                        <a href="@Url.Action("PorCodigo", "Soap")" class="btn btn-success w-100">Seleccionar</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col animate__animated animate__fadeInUp" style="animation-delay: 0.3s;">
+                <div class="card border-info h-100 shadow-sm bg-dark text-white">
+                    <div class="card-body">
+                        <h5 class="card-title">📋 Información completa de un país</h5>
+                        <p class="card-text">Accede a información detallada sobre un país, incluyendo su bandera y datos clave.</p>
+                        <a href="@Url.Action("Detalle", "Soap")" class="btn btn-info w-100 text-white">Seleccionar</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="text-center mt-5 animate__animated animate__fadeInUp" style="animation-delay: 0.4s;">
+            <a class="btn btn-danger btn-lg" href="@Url.Action("Index", "Home")">← Volver al inicio</a>
+        </div>
+    </div>
+</div>

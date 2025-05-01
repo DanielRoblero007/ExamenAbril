@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ExamDaniel
+build_property.RootNamespace = ExamDaniel
+build_property.ProjectDir = C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Daniel Repositorio\Daniel_Evaluacion_Mensual_Abril\ExamDaniel\ExamDaniel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Daniel Repositorio\Daniel_Evaluacion_Mensual_Abril\ExamDaniel\ExamDaniel
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/SOAP/Views/Soap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U09BUFxWaWV3c1xTb2FwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/SOAP/Views/Soap/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U09BUFxWaWV3c1xTb2FwXE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/ApiRest/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBpUmVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Bitacora/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQml0YWNvcmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Soap/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFxEZXRhbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Soap/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Soap/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFxNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Soap/PorCodigo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFxQb3JDb2RpZ28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/Documents/ARCHIVOS GEEKO/REPOSITORIOS/Geko Repositorio/DojoNet/Daniel Repositorio/Daniel_Evaluacion_Mensual_Abril/ExamDaniel/ExamDaniel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dcuejbjsvg
