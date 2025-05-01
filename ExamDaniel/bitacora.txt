@@ -640,3 +640,15 @@
 2025-04-30 20:38:07 | Operación | Producto eliminado: ID 10
 2025-04-30 20:38:08 | Acceso | Usuario admin accedio al Home
 2025-04-30 20:38:11 | Acceso | Usuario admin accedio al Home
+2025-04-30 21:52:40 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 21:52:44 | Acceso | Inicio de sesion exitoso: admin
+2025-04-30 21:52:44 | Acceso | Usuario admin accedio al Home
+2025-04-30 21:52:52 | Operación | Producto agregado: 1 (Stock: 1, Precio: 2)
+2025-04-30 21:52:54 | Operación | Producto eliminado: ID 10
+2025-04-30 21:52:59 | Operación | Producto editado: ID 9 (Nuevo nombre: 1)
+2025-04-30 21:53:00 | Acceso | Usuario admin accedio al Home
+2025-04-30 21:53:07 | REST | Editar producto: 1
+2025-04-30 21:53:11 | REST | Eliminar producto: 1
+2025-04-30 21:53:13 | Acceso | Usuario admin accedio al Home
+2025-04-30 21:53:26 | Acceso | Usuario admin accedio al Home
+2025-04-30 21:53:30 | Acceso | Usuario admin accedio al Home
