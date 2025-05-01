@@ -652,3 +652,11 @@
 2025-04-30 21:53:13 | Acceso | Usuario admin accedio al Home
 2025-04-30 21:53:26 | Acceso | Usuario admin accedio al Home
 2025-04-30 21:53:30 | Acceso | Usuario admin accedio al Home
+2025-04-30 22:07:55 | Acceso | Intento de acceso sin sesion activa
+2025-04-30 22:08:00 | Acceso | Inicio de sesion exitoso: Kenzo
+2025-04-30 22:08:00 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 22:08:03 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 22:08:05 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 22:08:08 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 22:08:10 | Acceso | Usuario Kenzo accedio al Home
+2025-04-30 22:08:11 | Acceso | Cierre de sesion: Kenzo

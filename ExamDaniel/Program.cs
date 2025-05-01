@@ -21,9 +21,9 @@ builder.Services.AddHttpClient<ApiRestService>();
 
 var app = builder.Build();
 
-
 var cfg = app.Services.GetRequiredService<IOptions<AppConfig>>().Value;
-var cultura = new CultureInfo(cfg.Idioma);
+var idioma = string.IsNullOrWhiteSpace(cfg.Idioma) ? "es-ES" : cfg.Idioma;
+var cultura = new CultureInfo(idioma);
 CultureInfo.DefaultThreadCurrentCulture = cultura;
 CultureInfo.DefaultThreadCurrentUICulture = cultura;
 
@@ -35,7 +35,6 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
 app.UseSession();
 app.UseAuthorization();

@@ -232,3 +232,13 @@ C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Ex
 C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\obj\Debug\net8.0\ExamDaniel.pdb
 C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\obj\Debug\net8.0\ExamDaniel.genruntimeconfig.cache
 C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\obj\Debug\net8.0\ref\ExamDaniel.dll
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\bin\Debug\net8.0\out\web.config
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\bin\Debug\net8.0\out\appsettings.json
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\bin\Debug\net8.0\out\Connected Services\CountryServiceReference\ConnectedService.json
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\bin\Debug\net8.0\out\ExamDaniel.deps.json
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\bin\Debug\net8.0\out\ExamDaniel.runtimeconfig.json
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\bin\Debug\net8.0\out\ExamDaniel.staticwebassets.endpoints.json
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\bin\Debug\net8.0\out\Productos.json
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\bin\Debug\net8.0\out\users.json
+C:\Users\danie\Documents\ARCHIVOS GEEKO\REPOSITORIOS\Geko Repositorio\DojoNet\Examenes Dojo\ExamenAbril\ExamDaniel\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
